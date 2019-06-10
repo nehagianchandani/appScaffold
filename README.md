@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 angularjs-app-scaffold
 ======================
 This is a template for an AngularJS application that uses NodeJS as a development environment, Gulp as a taskrunner, and Sass Bootstrap (compiled via libass).  
@@ -21,3 +22,7 @@ Usage
 TODO
 ====
 Add tasks for testing
+=======
+# appScaffold
+Example
+>>>>>>> 97b9f5c9d3755263e7d70448beecafb42f193e14
